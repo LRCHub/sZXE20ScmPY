@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "月牙灣",
+  "base_artist": "飛兒樂團",
+  "createdAt": "2026-02-14T10:22:21.545669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "F.I.R",
+      "has_synced": true,
+      "path": "select/01_月牙灣_F.I.R.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/02_月牙灣_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/03_月牙灣_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/04_月牙灣_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月牙灣 - Crescent Bay",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/05_月牙灣_-_Crescent_Bay_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "月牙灣 (原創版)",
+      "artist": "阿沁",
+      "has_synced": true,
+      "path": "select/06_月牙灣_(原創版)_阿沁.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "F.I.R",
+      "has_synced": true,
+      "path": "select/07_月牙灣_F.I.R.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "李鑫一",
+      "has_synced": true,
+      "path": "select/08_月牙灣_李鑫一.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "F.I.R.飛兒樂團",
+      "has_synced": true,
+      "path": "select/09_月牙灣_F.I.R.飛兒樂團.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "F.I.R. 飛兒樂團",
+      "has_synced": true,
+      "path": "select/10_月牙灣_F.I.R._飛兒樂團.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "月牙灣",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/11_月牙灣_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "月牙灣 (原創版) - Crescent Bay (Demo Version)",
+      "artist": "Real Huang",
+      "has_synced": true,
+      "path": "select/12_月牙灣_(原創版)_-_Crescent_Bay_(Demo_Version)_Real_Huang.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月牙灣",
+      "artist": "飛兒樂團",
+      "has_synced": false,
+      "path": "select/pl_01_月牙灣_飛兒樂團.txt"
+    }
+  ]
+}
